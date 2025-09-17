@@ -102,7 +102,7 @@ The mining process involves the following steps:
 Clone this treasure chest:
 
 ```bash
-git clone [https://github.com/DaCryptoRaccoon/BitcoinSoloPy]
+git clone [https://github.com/404-panda/BitcoinSoloPy]
 ```
 
 Install the magic spells (a.k.a. dependencies):
